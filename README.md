@@ -1,8 +1,8 @@
-#title
-##features
-##technologies used
+# title
+## features
+## technologies used
 github\
 vscode
-##how to run the project
-##youtube link
+## how to run the project
+## youtube link
 
